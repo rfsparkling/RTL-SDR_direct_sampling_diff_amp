@@ -1,4 +1,4 @@
-![layout preview](https://github.com/rfsparkling/MAX9709_Amplifier_PCB/blob/master/MAX9709_screenshot.png)
+![layout preview](https://github.com/rfsparkling/RTL-SDR_direct_sampling_diff_amp/blob/master/3.JPG)
 
 This is a breakout board for stock RTL-SDR dongle, allowing the until known best direct sampling method for HF reception using a differential amplifer as BALUN. Right now filtering DC...14 MHz band but possible to work on 14...28 MHz band too after adding a Band Pass Filter BPF.
 
